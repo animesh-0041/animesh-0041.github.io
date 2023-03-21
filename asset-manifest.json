@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.72fc69a0.css",
-    "main.js": "/static/js/main.7495c06d.js",
+    "main.js": "/static/js/main.2aba13cb.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/zara.png": "/static/media/zara.855e86ba3cde8e9d6369.png",
     "static/media/appletv.png": "/static/media/appletv.1b275ee9bf5cb3adaeed.png",
     "static/media/goodwill.png": "/static/media/goodwill.643595da5adcf388597b.png",
     "static/media/skills_gif.gif": "/static/media/skills_gif.1d79e53174f054bc0101.gif",
     "static/media/react.png": "/static/media/react.81ed438b18e24116794d.png",
+    "static/media/Animesh-Ghoroi-Resume.pdf": "/static/media/Animesh-Ghoroi-Resume.42c18335742d59db49ca.pdf",
     "static/media/profile_picture.jpeg": "/static/media/profile_picture.87dcb9ebf848d01a22fd.jpeg",
     "static/media/chakra.png": "/static/media/chakra.1bece9a2ca260de2de3b.png",
     "static/media/redux.png": "/static/media/redux.174ca4d979f3ce65bf11.png",
     "index.html": "/index.html",
     "main.72fc69a0.css.map": "/static/css/main.72fc69a0.css.map",
-    "main.7495c06d.js.map": "/static/js/main.7495c06d.js.map",
+    "main.2aba13cb.js.map": "/static/js/main.2aba13cb.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72fc69a0.css",
-    "static/js/main.7495c06d.js"
+    "static/js/main.2aba13cb.js"
   ]
 }
