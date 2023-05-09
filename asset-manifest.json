@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0966b61d.css",
-    "main.js": "/static/js/main.ddb6a8c2.js",
+    "main.js": "/static/js/main.501c49bb.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/lenskart.png": "/static/media/lenskart.85ceac9f07a45893e83a.png",
     "static/media/gojo.png": "/static/media/gojo.bb10195a496f382b6cfd.png",
@@ -12,11 +12,11 @@
     "static/media/photo.jpeg": "/static/media/photo.87dcb9ebf848d01a22fd.jpeg",
     "index.html": "/index.html",
     "main.0966b61d.css.map": "/static/css/main.0966b61d.css.map",
-    "main.ddb6a8c2.js.map": "/static/js/main.ddb6a8c2.js.map",
+    "main.501c49bb.js.map": "/static/js/main.501c49bb.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0966b61d.css",
-    "static/js/main.ddb6a8c2.js"
+    "static/js/main.501c49bb.js"
   ]
 }
