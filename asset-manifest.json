@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.0966b61d.css",
-    "main.js": "/static/js/main.501c49bb.js",
+    "main.js": "/static/js/main.64f91391.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/lenskart.png": "/static/media/lenskart.85ceac9f07a45893e83a.png",
+    "static/media/zara.png": "/static/media/zara.855e86ba3cde8e9d6369.png",
+    "static/media/appletv.png": "/static/media/appletv.1b275ee9bf5cb3adaeed.png",
+    "static/media/goodwill.png": "/static/media/goodwill.643595da5adcf388597b.png",
     "static/media/gojo.png": "/static/media/gojo.bb10195a496f382b6cfd.png",
-    "static/media/pirate.png": "/static/media/pirate.dc9c00bf055c0417e43e.png",
     "static/media/banner.png": "/static/media/banner.7b59d902e6479f73b0a2.png",
-    "static/media/cv.pdf": "/static/media/cv.76bf68644c624bc205ee.pdf",
-    "static/media/cal.png": "/static/media/cal.5f8b0c7f6c09f7d3df85.png",
+    "static/media/Animesh-Ghoroi-Resume.pdf": "/static/media/Animesh-Ghoroi-Resume.42c18335742d59db49ca.pdf",
     "static/media/photo.jpeg": "/static/media/photo.87dcb9ebf848d01a22fd.jpeg",
     "index.html": "/index.html",
     "main.0966b61d.css.map": "/static/css/main.0966b61d.css.map",
-    "main.501c49bb.js.map": "/static/js/main.501c49bb.js.map",
+    "main.64f91391.js.map": "/static/js/main.64f91391.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0966b61d.css",
-    "static/js/main.501c49bb.js"
+    "static/js/main.64f91391.js"
   ]
 }
