@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0966b61d.css",
-    "main.js": "/static/js/main.64f91391.js",
+    "main.css": "/static/css/main.30647e5a.css",
+    "main.js": "/static/js/main.ee18f776.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/zara.png": "/static/media/zara.855e86ba3cde8e9d6369.png",
     "static/media/appletv.png": "/static/media/appletv.1b275ee9bf5cb3adaeed.png",
@@ -11,12 +11,12 @@
     "static/media/Animesh-Ghoroi-Resume.pdf": "/static/media/Animesh-Ghoroi-Resume.42c18335742d59db49ca.pdf",
     "static/media/photo.jpeg": "/static/media/photo.87dcb9ebf848d01a22fd.jpeg",
     "index.html": "/index.html",
-    "main.0966b61d.css.map": "/static/css/main.0966b61d.css.map",
-    "main.64f91391.js.map": "/static/js/main.64f91391.js.map",
+    "main.30647e5a.css.map": "/static/css/main.30647e5a.css.map",
+    "main.ee18f776.js.map": "/static/js/main.ee18f776.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0966b61d.css",
-    "static/js/main.64f91391.js"
+    "static/css/main.30647e5a.css",
+    "static/js/main.ee18f776.js"
   ]
 }
